@@ -1,16 +1,69 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84b591&height=120&section=header"/>
 
-<!--
-**AlucinoX/AlucinoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">About me..</h2>
+
+###
+
+<h5 align="left">🔐 Cybersecurity Beginner | 🌱 Seeking Knowledge and Growth<br><br>I'm beginning my journey in cybersecurity, aiming to learn how to protect systems and information against digital threats. I'm interested in exploring essential practices and tools to ensure security in the digital world.<br><br>🛠️ Currently Learning:<br><br>- Cybersecurity fundamentals and vulnerability management<br>- Python programming focused on security automation<br>- Interfaces with HTML5 and CSS<br>- Introduction to firewalls, cryptography, and pentesting<br><br>🎯 Goal:<br><br>To deepen my knowledge and contribute to projects that promote a safer digital environment</h5>
+
+###
+
+<h2 align="left">SOCIAL MEDIA</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/nicco.lino" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="nicco.dinittis@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlucinoX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlucinoX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AlucinoX&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlucinoX&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+![snake gif](https://github.com/AlucinoX/AlucinoX/blob/output/github-contribution-grid-snake.gif)
+
+###
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84b591&height=120&section=footer"/>
