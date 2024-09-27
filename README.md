@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">🔐 Cybersecurity Beginner | 🌱 Seeking Knowledge and Growth<br><br>I'm beginning my journey in cybersecurity, aiming to learn how to protect systems and information against digital threats. I'm interested in exploring essential practices and tools to ensure security in the digital world.<br><br>🛠️ Currently Learning:<br><br>- Cybersecurity fundamentals and vulnerability management<br>- Python programming focused on security automation<br>- Interfaces with HTML5 and CSS<br>- Introduction to firewalls, cryptography, and pentesting<br><br>🎯 Goal:<br><br>To deepen my knowledge and contribute to projects that promote a safer digital environment</h5>
+<h5 align="left">🔐 Cybersecurity Beginner | 🌱 Seeking Knowledge and Growth<br><br>I'm beginning my journey in cybersecurity, aiming to learn how to protect systems and information against digital threats. I'm interested in exploring essential practices and tools to ensure security in the digital world.<br><br>🛠️ Currently Learning:<br><br>- Cybersecurity fundamentals and vulnerability management<br>- Python programming focused on security automation<br>- Interfaces with kivy<br>- Introduction to firewalls, cryptography, and pentesting<br><br>🎯 Goal:<br><br>To deepen my knowledge and contribute to projects that promote a safer digital environment</h5>
 
 ###
 
